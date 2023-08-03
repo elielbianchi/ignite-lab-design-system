@@ -2,6 +2,9 @@
 
 Ignite Lab Design System. It was used the following technologies: React, TypeScript, Storybook, Tailwind e Vite.
 
+## Créditos
+[![RocketSeat](https://img.shields.io/badge/Rocketseat-633BCC?style=for-the-badge)](https://www.rocketseat.com.br)
+
 ## Technologies
 
 * [React](https://reactjs.org/)
